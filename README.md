@@ -1,0 +1,1 @@
+This repository demonstrates a common TypeScript type error: Type 'string' is not assignable to type 'number'. The bug.ts file contains a function that expects two numbers but receives a string in one of the arguments.  The bugSolution.ts file provides a solution by implementing type checking to prevent such errors.
